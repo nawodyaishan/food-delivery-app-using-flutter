@@ -1,4 +1,4 @@
-# Flutter Food Delivery User Interface
+# Flutter Food Delivery Mobile Application User Interface
 
 A new Flutter project.
 
